@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sahanchanuka/Desktop/Smart Stock Tracker/SmartStockTracker/SmartStockTracker.API/SmartStockTracker.API.csproj",
+      "projectUniqueName": "/Users/sahanchanuka/Desktop/Smart Stock Tracker/Smart-Stock-Tracker/SmartStockTracker.API/SmartStockTracker.API.csproj",
       "projectName": "SmartStockTracker.API",
-      "projectPath": "/Users/sahanchanuka/Desktop/Smart Stock Tracker/SmartStockTracker/SmartStockTracker.API/SmartStockTracker.API.csproj",
+      "projectPath": "/Users/sahanchanuka/Desktop/Smart Stock Tracker/Smart-Stock-Tracker/SmartStockTracker.API/SmartStockTracker.API.csproj",
       "packagesPath": "/Users/sahanchanuka/.nuget/packages/",
-      "outputPath": "/Users/sahanchanuka/Desktop/Smart Stock Tracker/SmartStockTracker/SmartStockTracker.API/obj/",
+      "outputPath": "/Users/sahanchanuka/Desktop/Smart Stock Tracker/Smart-Stock-Tracker/SmartStockTracker.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sahanchanuka/.nuget/NuGet/NuGet.Config"
